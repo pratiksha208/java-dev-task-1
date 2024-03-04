@@ -1,4 +1,4 @@
-VeriTech Java development first task - Snake game.
+# VeriTech Java development first task - Snake game.
 Instructions to run: 
 1. Open terminal: 
 First command: javac GameFrame.java GamePanel.java SnakeGame.java
